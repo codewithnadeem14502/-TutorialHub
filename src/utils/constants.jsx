@@ -16,7 +16,7 @@ import picture from '../assets/youtube-logo-png-2067.png'
 export const logo = picture;
 
 export const categories = [
-  { name: 'New', icon: <HomeIcon />, },
+  { name: 'All', icon: <HomeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'Tutorial', icon: <CodeIcon />, },
   { name: 'Education', icon: <SchoolIcon />, },
