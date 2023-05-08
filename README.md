@@ -64,7 +64,7 @@ https://user-images.githubusercontent.com/39136324/230772728-81ef78a2-161d-43ed-
 Clone the project
 
 ```bash
-  $ git clone https://github.com/Khateebxtreme/Youtube_Lite
+  $ git clone https://github.com/codewithnadeem/TutoiralHub
 ```
 
 Go to the project directory
