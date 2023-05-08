@@ -31,12 +31,16 @@
 
 ### Homepage
 
-![chrome_FEagL9ebqh](https://user-images.githubusercontent.com/39136324/230771817-54448285-0bb1-46a9-8508-aad9077d5015.png)
+![homepage](https://user-images.githubusercontent.com/105824474/236922976-e37f980c-2173-424e-ab5c-7e3e736961e3.png)
+
+
 
 
 ### Videos (by specefic category)
 
-![chrome_umqRtO1gPv](https://user-images.githubusercontent.com/39136324/230771822-c8655db9-0731-4555-8e03-9c65b04b14b9.png)
+![ss](https://user-images.githubusercontent.com/105824474/236922991-3331d331-b243-46f8-ab87-ce86ac9e8f15.png)
+
+
 
 
 ### Channel Details Page
@@ -55,7 +59,7 @@
 
 **Video walkthrough on how to navigate and explore various features of this web app**
 
-https://user-images.githubusercontent.com/39136324/230772728-81ef78a2-161d-43ed-9d20-81f9e351cfcf.mp4
+
 
 
 
@@ -87,7 +91,7 @@ Start the server
 
 ## Authors
 
-- [@codewithnadeem](https://github.com/codewithnadeem)
+- [@codewithnadeem](https://github.com/codewithnadeem14502)
 
 
 ## Notes
